@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "jmp",
+  "versions": [
+    {
+      "commit": "df92d9ed2281dd9cef6ad1dbe90fa981aeb4ee83",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:54:43.077700+00:00"
+    }
+  ]
+}
